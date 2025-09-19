@@ -93,7 +93,7 @@ O modelo quebra o texto em sentenças para explicar o resultado do gráfico e re
 
 Segundo a imagem, o texto foi interpretado como algo positivo. Logo, o discurso feito pelo Android 16 foi de grande ajuda para que Gohan desbloqueasse todo o seu poder oculto e enfrentasse Cell.
 
- <img src="gohan.gif" width="500" alt="Dragon Ball Z - Saga Cell">
+
 
 Agora, será que há diferença nesse resultado ao utilizar o texto **corrigido gramaticalmente**? Após a correção e nova análise na ferramenta, temos:
 
