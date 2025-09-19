@@ -129,3 +129,12 @@ Percebe-se que o resultado foi alterado. Antes, o modelo interpretava a maioria 
 Esse resultado mostra  como a **correção gramatical influencia diretamente** o resultado final da análise de sentimentos, mostrando que ajustes no texto podem alterar a interpretação da IA.
 
 </div>
+
+## 📝 Considerações Finais
+
+A inteligência artificial consegue captar diversas informações, seja por vídeo, imagem, áudio ou outros formatos. No entanto, algo que ela ainda não consegue expressar plenamente é o **sentimento humano** em determinadas situações.  
+
+Ao assistir à cena utilizada neste projeto, percebe-se todo o **contexto emocional** por trás das ações: o olhar de Gohan para Cell e para a cabeça do Android 16, os pensamentos que Gohan tem ao não conseguir desbloquear totalmente seu potencial e liberar toda sua fúria. Esses detalhes são percebidos facilmente por um ser humano, mas para a IA não têm o mesmo peso, seja avaliando o conteúdo em formato de texto ou áudio.  
+
+Além disso, percebe-se que a **pontuação e a estrutura gramatical** influenciam significativamente a interpretação da IA que foi utilizada, fazendo com que o mesmo modelo gere resultados diferentes dependendo de como o texto é apresentado. Isso evidencia a importância de fornecer dados bem estruturados e contextualizados para que a IA produza análises mais precisas.
+
